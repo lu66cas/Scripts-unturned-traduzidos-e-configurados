@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "survival",
+    "Items": [
+      {
+        "Id": 14,
+        "Durability": 100,
+        "Amount": 3
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 3
+      },
+      {
+        "Id": 107,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 6,
+        "Id": 108,
+        "Durability": 100,
+        "Amount": 3
+      },
+      {
+        "Id": 16,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 179,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 214,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 221,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  }
+]

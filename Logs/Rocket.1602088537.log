@@ -1,0 +1,140 @@
+[07/10/2020 13:32:07] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 13:32:07] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 13:32:07] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 13:32:07] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 13:32:07] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 13:32:07] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 13:32:07] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 13:32:07] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 13:32:07] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 13:32:07] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 13:32:07] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 13:32:07] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 13:32:07] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 13:32:07] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 13:32:07] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 13:32:07] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 13:32:07] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 13:32:07] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 13:32:07] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 13:32:07] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 13:32:07] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 13:32:07] [Info] Loading AirdropManager from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\AirdropManager.dll
+[07/10/2020 13:32:07] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 13:32:07] [Info] Loading Uconomy from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Uconomy.dll
+[07/10/2020 13:32:07] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 13:32:07] [Info] Loading ZaupShop from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\ZaupShop.dll
+[07/10/2020 13:32:07] [Info] 
+[loading] Kits
+[07/10/2020 13:32:07] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 13:32:07] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 13:32:07] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 13:32:07] [Info] 
+[loading] Uconomy
+[07/10/2020 13:32:07] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[07/10/2020 13:32:07] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[07/10/2020 13:32:07] [Info] 
+[loading] uEssentials
+[07/10/2020 13:32:07] [Info] 
+[loading] ZaupShop
+[07/10/2020 13:32:07] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[07/10/2020 13:32:07] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[07/10/2020 13:32:07] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[07/10/2020 13:32:07] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[07/10/2020 13:32:07] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 13:32:07] [Info] Steam servers ready!
+[07/10/2020 13:32:07] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 13:32:07] [Info] 0 workshop item(s) requested
+[07/10/2020 13:32:08] [Info] Loading level: 8%
+[07/10/2020 13:32:08] [Info] Loading level: 16%
+[07/10/2020 13:32:09] [Info] Loading level: 25%
+[07/10/2020 13:32:09] [Info] Loading level: 33%
+[07/10/2020 13:32:09] [Info] Loading level: 41%
+[07/10/2020 13:32:09] [Info] Loading level: 50%
+[07/10/2020 13:32:09] [Info] Loading level: 58%
+[07/10/2020 13:32:09] [Info] Loading level: 66%
+[07/10/2020 13:32:09] [Info] Loading level: 75%
+[07/10/2020 13:32:09] [Info] Loading level: 83%
+[07/10/2020 13:32:09] [Info] Loading level: 91%
+[07/10/2020 13:34:07] [Info] Loading level: 100%
+[07/10/2020 13:34:07] [Info] Broadcast: Proibido skybase
+[07/10/2020 13:34:13] [Info] Plugin server not found
+[07/10/2020 13:34:26] [Info] [Vanilla]
+[07/10/2020 13:34:26] [Info] admin                [steamid | player]	
+[07/10/2020 13:34:26] [Info] admins               
+[07/10/2020 13:34:26] [Info] airdrop              
+[07/10/2020 13:34:26] [Info] allowp2prelay        
+[07/10/2020 13:34:26] [Info] animal               [steamid | player]/[id]	
+[07/10/2020 13:34:26] [Info] ban                  [steamid | player]/[reason]/[duration]
+[07/10/2020 13:34:26] [Info] bans                 
+[07/10/2020 13:34:26] [Info] bind                 [ip]
+[07/10/2020 13:34:26] [Info] chatrate             [number]
+[07/10/2020 13:34:26] [Info] cheats               
+[07/10/2020 13:34:26] [Info] cycle                [number]
+[07/10/2020 13:34:26] [Info] day                  
+[07/10/2020 13:34:26] [Info] debug                
+[07/10/2020 13:34:26] [Info] effectui             [effectid]	
+[07/10/2020 13:34:26] [Info] experience           [steamid | player]/[]	
+[07/10/2020 13:34:26] [Info] filter               
+[07/10/2020 13:34:26] [Info] flag                 [steamid | player]/[]/[value]	
+[07/10/2020 13:34:26] [Info] gamemode             [class name]
+[07/10/2020 13:34:26] [Info] give                 [steamid | player]/[itemid]/[amount]	
+[07/10/2020 13:34:26] [Info] gold                 
+[07/10/2020 13:34:26] [Info] gslt                 [login token]
+[07/10/2020 13:34:26] [Info] help                 [command]
+[07/10/2020 13:34:26] [Info] hide_admins          
+[07/10/2020 13:34:26] [Info] kick                 [steamid | player]/[reason]	
+[07/10/2020 13:34:26] [Info] kill                 [steamid | player]
+[07/10/2020 13:34:26] [Info] loadout              [skillsetid]/[itemid]/[itemid]/...	
+[07/10/2020 13:34:26] [Info] log                  [chat y/n]/[join/leave y/n]/[death y/n]/[anticheat y/n].
+[07/10/2020 13:34:26] [Info] map                  [level]
+[07/10/2020 13:34:26] [Info] maxplayers           [number]
+[07/10/2020 13:34:26] [Info] mode                 [easy | normal | hard]
+[07/10/2020 13:34:26] [Info] modules              
+[07/10/2020 13:34:26] [Info] name                 [text]
+[07/10/2020 13:34:26] [Info] night                
+[07/10/2020 13:34:26] [Info] owner                [steamid]	
+[07/10/2020 13:34:26] [Info] password             [text]
+[07/10/2020 13:34:26] [Info] permit               [steamid]/[tag]
+[07/10/2020 13:34:26] [Info] permits              
+[07/10/2020 13:34:26] [Info] perspective          [first | third | both | vehicle]
+[07/10/2020 13:34:26] [Info] players              
+[07/10/2020 13:34:26] [Info] port                 [number]
+[07/10/2020 13:34:26] [Info] pve                  
+[07/10/2020 13:34:26] [Info] quest                [steamid | player]/[]	
+[07/10/2020 13:34:26] [Info] queue_size           [number]
+[07/10/2020 13:34:26] [Info] reload               [guid]
+[07/10/2020 13:34:26] [Info] reputation           [steamid | player]/[]	
+[07/10/2020 13:34:26] [Info] resetconfig          
+[07/10/2020 13:34:26] [Info] save                 
+[07/10/2020 13:34:26] [Info] say                  [text]/[r]/[g]/[b]	
+[07/10/2020 13:34:26] [Info] shutdown             [delay]/[explanation]
+[07/10/2020 13:34:26] [Info] slay                 [steamid | player]/[reason]
+[07/10/2020 13:34:26] [Info] spy                  [steamid | player]
+[07/10/2020 13:34:26] [Info] sync                 
+[07/10/2020 13:34:26] [Info] teleport             [steamid | player]/[steamid | player | location]
+[07/10/2020 13:34:26] [Info] time                 [number]
+[07/10/2020 13:34:26] [Info] timeout              [number]
+[07/10/2020 13:34:27] [Info] unadmin              [steamid | player]	
+[07/10/2020 13:34:27] [Info] unban                [steamid]
+[07/10/2020 13:34:27] [Info] unpermit             [steamid]
+[07/10/2020 13:34:27] [Info] vehicle              [steamid | player]/[id]	
+[07/10/2020 13:34:27] [Info] votify               [vote allowed y/n]/[pass cooldown]/[fail cooldown]/[vote duration]/[vote percentage]/[players]
+[07/10/2020 13:34:27] [Info] weather              [none | storm | blizzard]
+[07/10/2020 13:34:27] [Info] welcome              [text]/[r]/[g]/[b]	
+[07/10/2020 13:34:27] [Info] whitelisted          
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [Rocket]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [AirdropManager]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [Kits]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [Uconomy]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [uEssentials]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:34:27] [Info] [ZaupShop]
+[07/10/2020 13:34:27] [Info] ---
+[07/10/2020 13:35:16] [Info] 
+[unloading] Kits

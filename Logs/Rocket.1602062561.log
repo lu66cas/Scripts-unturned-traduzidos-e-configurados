@@ -1,0 +1,46 @@
+[07/10/2020 06:14:50] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 06:14:50] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 06:14:50] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 06:14:50] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 06:14:50] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 06:14:50] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 06:14:50] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 06:14:50] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 06:14:50] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 06:14:50] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 06:14:50] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 06:14:50] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 06:14:50] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 06:14:50] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 06:14:50] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 06:14:50] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 06:14:50] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 06:14:50] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 06:14:50] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 06:14:50] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 06:14:50] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 06:14:50] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 06:14:50] [Info] 
+[loading] uEssentials
+[07/10/2020 06:14:51] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 06:14:51] [Info] Steam servers ready!
+[07/10/2020 06:14:51] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 06:14:51] [Info] 0 workshop item(s) requested
+[07/10/2020 06:14:51] [Info] Loading level: 8%
+[07/10/2020 06:14:52] [Info] Loading level: 16%
+[07/10/2020 06:14:53] [Info] Loading level: 25%
+[07/10/2020 06:14:53] [Info] Loading level: 33%
+[07/10/2020 06:14:53] [Info] Loading level: 41%
+[07/10/2020 06:14:53] [Info] Loading level: 50%
+[07/10/2020 06:14:53] [Info] Loading level: 58%
+[07/10/2020 06:14:53] [Info] Loading level: 66%
+[07/10/2020 06:14:53] [Info] Loading level: 75%
+[07/10/2020 06:14:53] [Info] Loading level: 83%
+[07/10/2020 06:14:53] [Info] Loading level: 91%
+[07/10/2020 06:15:56] [Info] Loading level: 100%
+[07/10/2020 06:15:56] [Info] Connecting: PlayerID: 76561198056564553 Name: Lucas Dedador De Cu Character: Lu66cas
+[07/10/2020 06:16:13] [Info] Broadcast: Lu66cas entrou no servidor.
+[07/10/2020 06:16:13] [Info] Broadcast: Lu66cas se matou!
+[07/10/2020 06:16:13] [Info] Lu66cas [Lucas Dedador De Cu] killed themself.
+[07/10/2020 06:22:19] [Info] 
+[unloading] uEssentials

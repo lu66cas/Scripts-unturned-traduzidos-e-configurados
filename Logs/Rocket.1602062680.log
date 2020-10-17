@@ -1,0 +1,56 @@
+[07/10/2020 06:22:42] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 06:22:42] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 06:22:42] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 06:22:42] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 06:22:42] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 06:22:42] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 06:22:42] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 06:22:42] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 06:22:42] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 06:22:42] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 06:22:42] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 06:22:42] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 06:22:42] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 06:22:42] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 06:22:42] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 06:22:42] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 06:22:42] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 06:22:42] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 06:22:42] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 06:22:42] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 06:22:42] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 06:22:42] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 06:22:42] [Info] 
+[loading] uEssentials
+[07/10/2020 06:22:43] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 06:22:43] [Info] Steam servers ready!
+[07/10/2020 06:22:43] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 06:22:43] [Info] 0 workshop item(s) requested
+[07/10/2020 06:22:43] [Info] Loading level: 8%
+[07/10/2020 06:22:44] [Info] Loading level: 16%
+[07/10/2020 06:22:44] [Info] Loading level: 25%
+[07/10/2020 06:22:44] [Info] Loading level: 33%
+[07/10/2020 06:22:44] [Info] Loading level: 41%
+[07/10/2020 06:22:44] [Info] Loading level: 50%
+[07/10/2020 06:22:44] [Info] Loading level: 58%
+[07/10/2020 06:22:44] [Info] Loading level: 66%
+[07/10/2020 06:22:44] [Info] Loading level: 75%
+[07/10/2020 06:22:44] [Info] Loading level: 83%
+[07/10/2020 06:22:44] [Info] Loading level: 91%
+[07/10/2020 06:23:05] [Info] Loading level: 100%
+[07/10/2020 06:23:05] [Info] Connecting: PlayerID: 76561198056564553 Name: Lucas Dedador De Cu Character: Lu66cas
+[07/10/2020 06:23:13] [Info] Broadcast: Lu66cas entrou no servidor.
+[07/10/2020 06:23:13] [Info] Connecting: PlayerID: 76561198422477309 Name: Mzk' Character: Windows 10 The Origns
+[07/10/2020 06:23:13] [Info] Broadcast: Windows 10 The Origns entrou no servidor.
+[07/10/2020 06:23:20] [Info] [World] Windows 10 The Origns [Mzk']: "/kit"
+[07/10/2020 06:23:22] [Info] [World] Windows 10 The Origns [Mzk']: "/kits"
+[07/10/2020 06:23:26] [Info] [World] Windows 10 The Origns [Mzk']: "/kit survival"
+[07/10/2020 06:23:30] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits"
+[07/10/2020 06:23:33] [Info] [World] Windows 10 The Origns [Mzk']: "/kit Suvirval"
+[07/10/2020 06:23:35] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits"
+[07/10/2020 06:23:38] [Info] [World] Windows 10 The Origns [Mzk']: "/kit Survival"
+[07/10/2020 06:23:40] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit survival"
+[07/10/2020 06:23:42] [Info] [World] Windows 10 The Origns [Mzk']: "/kit default"
+[07/10/2020 06:23:45] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit Survival"
+[07/10/2020 06:24:03] [Info] 
+[unloading] uEssentials

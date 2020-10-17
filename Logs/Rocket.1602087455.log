@@ -1,0 +1,65 @@
+[07/10/2020 13:05:58] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 13:05:58] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 13:05:58] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 13:05:58] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 13:05:58] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 13:05:58] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 13:05:58] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 13:05:58] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 13:05:58] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 13:05:58] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 13:05:58] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 13:05:58] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 13:05:58] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 13:05:58] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 13:05:58] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 13:05:58] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 13:05:58] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 13:05:58] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 13:05:58] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 13:05:58] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 13:05:58] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 13:05:58] [Info] Loading AirdropManager from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\AirdropManager.dll
+[07/10/2020 13:05:58] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 13:05:58] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 13:05:58] [Info] 
+[loading] AirdropManager
+[07/10/2020 13:05:58] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/airdrop / crythesly.AirdropManager.AirdropCommand/airdrop
+[07/10/2020 13:05:58] [Info] [registered] /airdrop (crythesly.AirdropManager.AirdropCommand/airdrop)
+[07/10/2020 13:05:58] [Info] [registered] /massdrop (crythesly.AirdropManager.MassAirdropCommand/massdrop)
+[07/10/2020 13:05:58] [Info] [registered] /mdrop (crythesly.AirdropManager.MassAirdropCommand/mdrop)
+[07/10/2020 13:05:58] [Info] [registered] /massairdrop (crythesly.AirdropManager.MassAirdropCommand/massairdrop)
+[07/10/2020 13:05:58] [Info] [registered] /airdropmass (crythesly.AirdropManager.MassAirdropCommand/airdropmass)
+[07/10/2020 13:05:58] [Info] [registered] /dropmass (crythesly.AirdropManager.MassAirdropCommand/dropmass)
+[07/10/2020 13:05:58] [Info] [registered] /mairdrop (crythesly.AirdropManager.MassAirdropCommand/mairdrop)
+[07/10/2020 13:05:58] [Warning] Airdrop Manager by CryTheSly (Fixed by Community of RocketMod) has been loaded
+[07/10/2020 13:05:58] [Info] 
+[loading] Kits
+[07/10/2020 13:05:58] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 13:05:58] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 13:05:58] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 13:05:58] [Info] 
+[loading] uEssentials
+[07/10/2020 13:05:59] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 13:05:59] [Info] Steam servers ready!
+[07/10/2020 13:05:59] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 13:05:59] [Info] 0 workshop item(s) requested
+[07/10/2020 13:06:00] [Warning] Server browser thumbnail URL is 121 characters over budget!
+[07/10/2020 13:06:00] [Warning] Server will not list properly until this URL is adjusted!
+[07/10/2020 13:06:00] [Info] Loading level: 8%
+[07/10/2020 13:06:00] [Info] Loading level: 16%
+[07/10/2020 13:06:01] [Info] Loading level: 25%
+[07/10/2020 13:06:01] [Info] Loading level: 33%
+[07/10/2020 13:06:01] [Info] Loading level: 41%
+[07/10/2020 13:06:01] [Info] Loading level: 50%
+[07/10/2020 13:06:01] [Info] Loading level: 58%
+[07/10/2020 13:06:01] [Info] Loading level: 66%
+[07/10/2020 13:06:01] [Info] Loading level: 75%
+[07/10/2020 13:06:01] [Info] Loading level: 83%
+[07/10/2020 13:06:01] [Info] Loading level: 91%
+[07/10/2020 13:06:01] [Info] Loading level: 100%
+[07/10/2020 13:06:02] [Info] Broadcast: Airdrop Incoming!
+[07/10/2020 13:06:02] [Info] Broadcast: Mass Airdrop Incoming!
+[07/10/2020 13:06:21] [Info] 
+[unloading] AirdropManager
+[07/10/2020 13:06:21] [Warning] Airdrop Manager by CryTheSly (Fixed by Community of RocketMod) has been Unloaded

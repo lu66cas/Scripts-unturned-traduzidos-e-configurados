@@ -1,0 +1,43 @@
+[07/10/2020 05:50:45] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 05:50:45] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 05:50:45] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 05:50:45] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 05:50:45] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 05:50:45] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 05:50:45] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 05:50:45] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 05:50:45] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 05:50:45] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 05:50:45] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 05:50:45] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 05:50:45] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 05:50:45] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 05:50:45] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 05:50:45] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 05:50:45] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 05:50:45] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 05:50:45] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 05:50:45] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 05:50:45] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 05:50:45] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 05:50:45] [Error] Invalid or outdated plugin assembly: TPA
+[07/10/2020 05:50:45] [Info] 
+[loading] Kits
+[07/10/2020 05:50:45] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 05:50:45] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 05:50:45] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 05:50:45] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 05:50:46] [Info] Steam servers ready!
+[07/10/2020 05:50:47] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 05:50:47] [Info] 0 workshop item(s) requested
+[07/10/2020 05:50:47] [Info] Loading level: 8%
+[07/10/2020 05:50:47] [Info] Loading level: 16%
+[07/10/2020 05:50:48] [Info] Loading level: 25%
+[07/10/2020 05:50:48] [Info] Loading level: 33%
+[07/10/2020 05:50:48] [Info] Loading level: 41%
+[07/10/2020 05:50:48] [Info] Loading level: 50%
+[07/10/2020 05:50:48] [Info] Loading level: 58%
+[07/10/2020 05:50:48] [Info] Loading level: 66%
+[07/10/2020 05:50:48] [Info] Loading level: 75%
+[07/10/2020 05:50:48] [Info] Loading level: 83%
+[07/10/2020 05:50:48] [Info] Loading level: 91%

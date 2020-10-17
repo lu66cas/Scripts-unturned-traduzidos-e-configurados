@@ -1,0 +1,64 @@
+[07/10/2020 05:35:41] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 05:35:42] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 05:35:42] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 05:35:42] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 05:35:42] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 05:35:42] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 05:35:42] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 05:35:42] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 05:35:42] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 05:35:42] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 05:35:42] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 05:35:42] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 05:35:42] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 05:35:42] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 05:35:42] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 05:35:42] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 05:35:42] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 05:35:42] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 05:35:42] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 05:35:42] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 05:35:42] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 05:35:42] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 05:35:42] [Info] 
+[loading] Kits
+[07/10/2020 05:35:42] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 05:35:42] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 05:35:42] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 05:35:42] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 05:35:42] [Info] Steam servers ready!
+[07/10/2020 05:35:42] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 05:35:42] [Info] 0 workshop item(s) requested
+[07/10/2020 05:35:42] [Info] Loading level: 8%
+[07/10/2020 05:35:43] [Info] Loading level: 16%
+[07/10/2020 05:35:44] [Info] Loading level: 25%
+[07/10/2020 05:35:44] [Info] Loading level: 33%
+[07/10/2020 05:35:44] [Info] Loading level: 41%
+[07/10/2020 05:35:44] [Info] Loading level: 50%
+[07/10/2020 05:35:44] [Info] Loading level: 58%
+[07/10/2020 05:35:44] [Info] Loading level: 66%
+[07/10/2020 05:35:44] [Info] Loading level: 75%
+[07/10/2020 05:35:44] [Info] Loading level: 83%
+[07/10/2020 05:35:44] [Info] Loading level: 91%
+[07/10/2020 05:36:19] [Info] Loading level: 100%
+[07/10/2020 05:36:19] [Info] Connecting: PlayerID: 76561198056564553 Name: Lucas Dedador De Cu Character: Lu66cas
+[07/10/2020 05:36:35] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/unadmin lu66cas"
+[07/10/2020 05:36:38] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits"
+[07/10/2020 05:36:41] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "kit survival"
+[07/10/2020 05:36:44] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit survival"
+[07/10/2020 05:36:47] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits"
+[07/10/2020 05:36:52] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits Suvirval"
+[07/10/2020 05:37:09] [Info] Connecting: PlayerID: 76561198422477309 Name: Mzk' Character: Windows 10 The Origns
+[07/10/2020 05:37:32] [Info] [World] Windows 10 The Origns [Mzk']: "/kits"
+[07/10/2020 05:37:36] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "kits"
+[07/10/2020 05:37:37] [Info] [World] Windows 10 The Origns [Mzk']: "/kit survival"
+[07/10/2020 05:37:41] [Info] [World] Windows 10 The Origns [Mzk']: "/kits survival"
+[07/10/2020 05:37:46] [Info] [World] Windows 10 The Origns [Mzk']: "aaaa"
+[07/10/2020 05:37:51] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit Survival"
+[07/10/2020 05:37:53] [Info] [World] Windows 10 The Origns [Mzk']: "/kit survival"
+[07/10/2020 05:38:04] [Info] [World] Windows 10 The Origns [Mzk']: "aaaa"
+[07/10/2020 05:38:16] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit survival"
+[07/10/2020 05:38:17] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kits"
+[07/10/2020 05:38:20] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit Survival"
+[07/10/2020 05:38:26] [Info] 
+[unloading] Kits

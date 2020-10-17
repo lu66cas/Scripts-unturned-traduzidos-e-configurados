@@ -1,0 +1,94 @@
+[07/10/2020 07:08:41] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 07:08:41] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 07:08:41] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 07:08:41] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 07:08:41] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 07:08:41] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 07:08:41] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 07:08:41] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 07:08:41] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 07:08:41] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 07:08:41] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 07:08:41] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 07:08:41] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 07:08:41] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 07:08:41] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 07:08:41] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 07:08:41] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 07:08:41] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 07:08:41] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 07:08:41] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 07:08:41] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 07:08:41] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 07:08:41] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 07:08:41] [Info] 
+[loading] Kits
+[07/10/2020 07:08:41] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 07:08:41] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 07:08:41] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 07:08:41] [Info] 
+[loading] uEssentials
+[07/10/2020 07:08:41] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 07:08:41] [Info] Steam servers ready!
+[07/10/2020 07:08:41] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 07:08:41] [Info] 0 workshop item(s) requested
+[07/10/2020 07:08:42] [Info] Loading level: 8%
+[07/10/2020 07:08:43] [Info] Loading level: 16%
+[07/10/2020 07:08:43] [Info] Loading level: 25%
+[07/10/2020 07:08:43] [Info] Loading level: 33%
+[07/10/2020 07:08:43] [Info] Loading level: 41%
+[07/10/2020 07:08:43] [Info] Loading level: 50%
+[07/10/2020 07:08:43] [Info] Loading level: 58%
+[07/10/2020 07:08:43] [Info] Loading level: 66%
+[07/10/2020 07:08:43] [Info] Loading level: 75%
+[07/10/2020 07:08:43] [Info] Loading level: 83%
+[07/10/2020 07:08:43] [Info] Loading level: 91%
+[07/10/2020 07:08:57] [Info] Loading level: 100%
+[07/10/2020 07:08:57] [Info] Connecting: PlayerID: 76561198422477309 Name: Mzk' Character: Windows 10 The Origns
+[07/10/2020 07:09:03] [Info] Broadcast: Windows 10 The Origns entrou no servidor.
+[07/10/2020 07:09:03] [Info] Connecting: PlayerID: 76561198056564553 Name: Lucas Dedador De Cu Character: Lu66cas
+[07/10/2020 07:09:03] [Info] Broadcast: Lu66cas entrou no servidor.
+[07/10/2020 07:09:04] [Info] Broadcast: Windows 10 The Origns se matou!
+[07/10/2020 07:09:07] [Info] Windows 10 The Origns [Mzk'] killed themself.
+[07/10/2020 07:09:07] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit"
+[07/10/2020 07:09:08] [Info] [World] Windows 10 The Origns [Mzk']: "/tp lu66"
+[07/10/2020 07:09:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:09:12] [Info] [World] Windows 10 The Origns [Mzk']: "/kits"
+[07/10/2020 07:09:12] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit admin"
+[07/10/2020 07:09:12] [Warning] The player Lu66cas has no permission to execute the command kit
+[07/10/2020 07:09:14] [Info] [World] Windows 10 The Origns [Mzk']: "/kit ADMIN"
+[07/10/2020 07:09:21] [Info] Broadcast: Lu66cas foi baleado na(o) cabeça por Windows 10 The Origns!
+[07/10/2020 07:09:21] [Info] Lu66cas [Lucas Dedador De Cu] was shot in the head by Windows 10 The Origns [Mzk']!
+[07/10/2020 07:09:23] [Info] Successfully admined Lu66cas
+[07/10/2020 07:09:24] [Info] Lu66cas moved x:-744,4502 y:58,56762(+20,0903) z:127,2084 in the last second (0,9748459)
+[07/10/2020 07:09:27] [Info] [World] Lu66cas [Lucas Dedador De Cu]: "/kit admin"
+[07/10/2020 07:09:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:09:47] [Info] [World] Windows 10 The Origns [Mzk']: "/tp lu66"
+[07/10/2020 07:09:48] [Info] Windows 10 The Origns moved x:-747,1505 y:59,64296(+21,10485) z:130,3452 in the last second (0,1623726)
+[07/10/2020 07:09:57] [Info] Broadcast: Lu66cas foi baleado na(o) braço esquerdo por Windows 10 The Origns!
+[07/10/2020 07:10:11] [Info] Lu66cas [Lucas Dedador De Cu] was shot in the arm by Windows 10 The Origns [Mzk']!
+[07/10/2020 07:10:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:10:25] [Info] [World] Windows 10 The Origns [Mzk']: "/tp lu66"
+[07/10/2020 07:10:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:10:56] [Info] Broadcast: Lu66cas foi baleado na(o) cabeça por Windows 10 The Origns!
+[07/10/2020 07:10:56] [Info] Lu66cas [Lucas Dedador De Cu] was shot in the head by Windows 10 The Origns [Mzk']!
+[07/10/2020 07:11:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:11:14] [Info] [World] Windows 10 The Origns [Mzk']: "asdsad"
+[07/10/2020 07:11:25] [Info] Player finished session: 76561198422477309
+[07/10/2020 07:11:41] [Info] Broadcast: <pink>Windows 10 The Origns saiu do servidor :c.
+[07/10/2020 07:11:41] [Info] Disconnecting: PlayerID: 76561198422477309 Name: Mzk' Character: Windows 10 The Origns
+[07/10/2020 07:11:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:12:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:12:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:13:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:13:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:14:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:14:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:15:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:15:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:16:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:16:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:17:11] [Info] Broadcast: Proibido skybase
+[07/10/2020 07:17:41] [Info] Broadcast: <pink>Entre em nosso discord
+[07/10/2020 07:17:52] [Info] 
+[unloading] uEssentials

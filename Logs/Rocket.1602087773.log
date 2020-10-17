@@ -1,0 +1,86 @@
+[07/10/2020 13:17:36] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 13:17:36] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 13:17:36] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 13:17:36] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 13:17:36] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 13:17:36] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 13:17:36] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 13:17:36] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 13:17:36] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 13:17:36] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 13:17:36] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 13:17:36] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 13:17:36] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 13:17:36] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 13:17:36] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 13:17:36] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 13:17:36] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 13:17:36] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 13:17:36] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 13:17:36] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 13:17:36] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 13:17:36] [Info] Loading AirdropManager from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\AirdropManager.dll
+[07/10/2020 13:17:36] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 13:17:36] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 13:17:36] [Info] Loading ZaupShop from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\ZaupShop.dll
+[07/10/2020 13:17:36] [Info] 
+[loading] AirdropManager
+[07/10/2020 13:17:36] [Info] [registered] /airdrop (crythesly.AirdropManager.AirdropCommand/airdrop)
+[07/10/2020 13:17:36] [Info] [registered] /massdrop (crythesly.AirdropManager.MassAirdropCommand/massdrop)
+[07/10/2020 13:17:36] [Info] [registered] /mdrop (crythesly.AirdropManager.MassAirdropCommand/mdrop)
+[07/10/2020 13:17:36] [Info] [registered] /massairdrop (crythesly.AirdropManager.MassAirdropCommand/massairdrop)
+[07/10/2020 13:17:36] [Info] [registered] /airdropmass (crythesly.AirdropManager.MassAirdropCommand/airdropmass)
+[07/10/2020 13:17:36] [Info] [registered] /dropmass (crythesly.AirdropManager.MassAirdropCommand/dropmass)
+[07/10/2020 13:17:36] [Info] [registered] /mairdrop (crythesly.AirdropManager.MassAirdropCommand/mairdrop)
+[07/10/2020 13:17:36] [Warning] Airdrop Manager by CryTheSly (Fixed by Community of RocketMod) has been loaded
+[07/10/2020 13:17:36] [Info] 
+[loading] Kits
+[07/10/2020 13:17:36] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 13:17:36] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 13:17:36] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 13:17:36] [Info] 
+[loading] uEssentials
+[07/10/2020 13:17:37] [Info] 
+[loading] ZaupShop
+[07/10/2020 13:17:37] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[07/10/2020 13:17:37] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[07/10/2020 13:17:37] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[07/10/2020 13:17:37] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[07/10/2020 13:17:37] [Error] Could not find dependency: I18N.West, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[07/10/2020 13:17:37] [Error] Could not find dependency: I18N.West, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[07/10/2020 13:17:37] [Error] Failed to load ZaupShop, unloading now... :System.IO.FileNotFoundException: Could not load file or assembly 'I18N.West, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756' or one of its dependencies.
+File name: 'I18N.West, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756'
+  at ZaupShop.ZaupShop.Load () [0x00006] in <831c71751b734a6f8d4573932d5d00a9>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <d60abb45450649579e1e8db675144e04>:0 
+[07/10/2020 13:17:37] [Info] 
+[unloading] ZaupShop
+[07/10/2020 13:17:37] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 13:17:37] [Info] Steam servers ready!
+[07/10/2020 13:17:37] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 13:17:37] [Info] 0 workshop item(s) requested
+[07/10/2020 13:17:37] [Warning] Server browser thumbnail URL is 121 characters over budget!
+[07/10/2020 13:17:37] [Warning] Server will not list properly until this URL is adjusted!
+[07/10/2020 13:17:38] [Info] Loading level: 8%
+[07/10/2020 13:17:38] [Info] Loading level: 16%
+[07/10/2020 13:17:38] [Info] Loading level: 25%
+[07/10/2020 13:17:38] [Info] Loading level: 33%
+[07/10/2020 13:17:38] [Info] Loading level: 41%
+[07/10/2020 13:17:38] [Info] Loading level: 50%
+[07/10/2020 13:17:38] [Info] Loading level: 58%
+[07/10/2020 13:17:38] [Info] Loading level: 66%
+[07/10/2020 13:17:38] [Info] Loading level: 75%
+[07/10/2020 13:17:38] [Info] Loading level: 83%
+[07/10/2020 13:17:38] [Info] Loading level: 91%
+[07/10/2020 13:17:39] [Info] Loading level: 100%
+[07/10/2020 13:17:39] [Info] Broadcast: Airdrop Incoming!
+[07/10/2020 13:17:39] [Info] Broadcast: Mass Airdrop Incoming!
+[07/10/2020 13:19:36] [Info] Broadcast: Proibido skybase
+[07/10/2020 13:21:36] [Info] Broadcast: Entre em nosso discord
+[07/10/2020 13:21:48] [Info] Please reload individual plugins instead
+[07/10/2020 13:21:52] [Info] Plugin all not found
+[07/10/2020 13:21:58] [Info] Plugin ueconomy not found
+[07/10/2020 13:22:02] [Info] Please reload individual plugins instead
+[07/10/2020 13:22:09] [Info] Rocket v4.9.3.5 for Unturned v3.20.11.0
+[07/10/2020 13:22:09] [Info] https://rocketmod.net - 2017
+[07/10/2020 13:22:32] [Info] 
+[unloading] uEssentials

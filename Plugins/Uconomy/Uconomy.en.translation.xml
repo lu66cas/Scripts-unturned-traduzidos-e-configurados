@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="command_balance_show" Value="Seu saldo é: {0} {1}" />
+  <Translation Id="command_pay_invalid" Value="Inválido" />
+  <Translation Id="command_pay_error_pay_self" Value="Você não pode pagar a si mesmo" />
+  <Translation Id="command_pay_error_invalid_amount" Value="Quantia inválida" />
+  <Translation Id="command_pay_error_cant_afford" Value="O seu saldo não pode pagar esse valor" />
+  <Translation Id="command_pay_error_player_not_found" Value="Jogador não encontrado" />
+  <Translation Id="command_pay_private" Value="Você pagou {0} {1} {2}" />
+  <Translation Id="command_pay_console" Value="Voce recebeu um pagamento {0} {1} " />
+  <Translation Id="command_pay_other_private" Value="Você recebeu um pagamento {0} {1} de {2}" />
+  <Translation Id="command_balance_error_player_not_found" Value="Jogador não encontrado!" />
+  <Translation Id="command_balance_check_noPermissions" Value="Permissão inválida!" />
+  <Translation Id="command_balance_show_otherPlayer" Value="{0}O saldo é: {0} {1} {2}" />
+</Translations>

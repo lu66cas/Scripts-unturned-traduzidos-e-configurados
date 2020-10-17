@@ -1,0 +1,72 @@
+[07/10/2020 13:30:29] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[07/10/2020 13:30:29] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[07/10/2020 13:30:29] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[07/10/2020 13:30:29] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[07/10/2020 13:30:29] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[07/10/2020 13:30:29] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[07/10/2020 13:30:29] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[07/10/2020 13:30:29] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[07/10/2020 13:30:29] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[07/10/2020 13:30:29] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[07/10/2020 13:30:29] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[07/10/2020 13:30:29] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[07/10/2020 13:30:29] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[07/10/2020 13:30:29] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[07/10/2020 13:30:29] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[07/10/2020 13:30:29] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[07/10/2020 13:30:29] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[07/10/2020 13:30:29] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[07/10/2020 13:30:29] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[07/10/2020 13:30:29] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[07/10/2020 13:30:29] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[07/10/2020 13:30:29] [Info] Loading AirdropManager from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\AirdropManager.dll
+[07/10/2020 13:30:29] [Info] Loading Kits from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Kits.dll
+[07/10/2020 13:30:29] [Info] Loading Uconomy from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\Uconomy.dll
+[07/10/2020 13:30:29] [Info] Loading uEssentials from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\uEssentials.dll
+[07/10/2020 13:30:29] [Info] Loading ZaupShop from C:\Users\T-Gamer\Desktop\servidor\Servers\brasilunturned\Rocket\Plugins\ZaupShop.dll
+[07/10/2020 13:30:29] [Info] 
+[loading] Kits
+[07/10/2020 13:30:29] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[07/10/2020 13:30:29] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[07/10/2020 13:30:29] [Info] Kits >> Optional dependency Uconomy is not present.
+[07/10/2020 13:30:29] [Info] 
+[loading] Uconomy
+[07/10/2020 13:30:29] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[07/10/2020 13:30:29] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[07/10/2020 13:30:29] [Info] 
+[loading] uEssentials
+[07/10/2020 13:30:29] [Info] 
+[loading] ZaupShop
+[07/10/2020 13:30:29] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[07/10/2020 13:30:29] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[07/10/2020 13:30:29] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[07/10/2020 13:30:29] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[07/10/2020 13:30:29] [Info] This server will automatically save every 1800 seconds
+[07/10/2020 13:30:29] [Info] Steam servers ready!
+[07/10/2020 13:30:29] [Info] Workshop install folder: C:\Users\T-Gamer\Desktop\servidor/Servers/brasilunturned/Workshop/Steam
+[07/10/2020 13:30:29] [Info] 0 workshop item(s) requested
+[07/10/2020 13:30:29] [Warning] Server browser thumbnail URL is 18 characters over budget!
+[07/10/2020 13:30:29] [Warning] Server will not list properly until this URL is adjusted!
+[07/10/2020 13:30:30] [Info] Loading level: 8%
+[07/10/2020 13:30:30] [Info] Loading level: 16%
+[07/10/2020 13:30:31] [Info] Loading level: 25%
+[07/10/2020 13:30:31] [Info] Loading level: 33%
+[07/10/2020 13:30:31] [Info] Loading level: 41%
+[07/10/2020 13:30:31] [Info] Loading level: 50%
+[07/10/2020 13:30:31] [Info] Loading level: 58%
+[07/10/2020 13:30:31] [Info] Loading level: 66%
+[07/10/2020 13:30:31] [Info] Loading level: 75%
+[07/10/2020 13:30:31] [Info] Loading level: 83%
+[07/10/2020 13:30:31] [Info] Loading level: 91%
+[07/10/2020 13:31:30] [Info] Loading level: 100%
+[07/10/2020 13:31:30] [Info] 
+[unloading] AirdropManager
+[07/10/2020 13:31:30] [Warning] Airdrop Manager by CryTheSly (Fixed by Community of RocketMod) has been Unloaded
+[07/10/2020 13:31:30] [Info] 
+[unloading] ZaupShop
+[07/10/2020 13:31:30] [Info] 
+[unloading] Uconomy
+[07/10/2020 13:31:30] [Info] 
+[unloading] uEssentials
+[07/10/2020 13:31:30] [Info] 
+[unloading] Kits

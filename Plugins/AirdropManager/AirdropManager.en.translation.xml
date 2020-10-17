@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="massdrop_coming" Value="<yellow> O Airdrop está vindo!" />
+  <Translation Id="timedrop_coming" Value="O Airdrop está vindo!" />
+</Translations>
